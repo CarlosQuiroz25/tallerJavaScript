@@ -6,9 +6,6 @@ console.log(a > b)
 console.log(a === b)
 console.log(a <= b)
 
-alert(a > b)
-alert(a === b)
-alert(a <= b)
-
-
-
+alert(`${a > b}
+${a === b}
+${a <= b}`)

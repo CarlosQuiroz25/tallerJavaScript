@@ -6,7 +6,7 @@ let resultado
 let hayUnNumero
 
 
-if (a == "" || b == "") {
+if (a === "" || b === "") {
     hayUnNumero = false
 }
 else{
